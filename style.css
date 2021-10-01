@@ -1,0 +1,14 @@
+body{
+    background-color: azure;
+}
+
+.container{
+    text-align: center;
+    padding: 2rem 2rem;
+}
+
+input{
+    text-align: center;
+    margin: auto 2rem;
+    padding: 0.5rem 1rem;
+}
